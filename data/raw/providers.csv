@@ -1,0 +1,401 @@
+provider_id,provider_name,specialty,state,join_date,status,churn_date,accepts_insurance
+1,Allison Hill,Depression,NY,2024-10-08,active,,True
+2,Noah Rhodes,Depression,PA,2025-07-12,churned,2025-11-03,False
+3,Angie Henderson,Depression,CA,2025-06-01,active,,True
+4,Daniel Wagner,LGBTQ+ Affirming,CA,2025-08-26,active,,True
+5,Cristian Santos,Trauma & PTSD,PA,2024-12-14,active,,True
+6,Connie Lawrence,Substance Use,NY,2025-01-24,churned,2025-09-17,True
+7,Abigail Shaffer,Anxiety & Stress,NJ,2025-07-03,active,,True
+8,Gina Moore,Depression,FL,2025-10-05,active,,True
+9,Gabrielle Davis,Couples Therapy,PA,2024-02-16,active,,True
+10,Ryan Munoz,Depression,MA,2024-04-13,active,,True
+11,Monica Herrera,Substance Use,NY,2024-12-29,active,,True
+12,Jamie Arnold,Depression,IL,2024-06-24,active,,True
+13,Lisa Hensley,Grief & Loss,TX,2025-10-17,active,,True
+14,Michele Williams,Substance Use,MA,2024-02-27,active,,False
+15,Dylan Miller,Substance Use,TX,2024-03-08,active,,True
+16,Brian Ramirez,Substance Use,CA,2025-05-26,active,,True
+17,Holly Wood,Grief & Loss,NY,2024-05-22,active,,True
+18,Derek Zuniga,Child & Adolescent,NJ,2025-03-14,active,,True
+19,Lisa Jackson,Couples Therapy,NC,2024-05-21,active,,True
+20,Carla Gray,Anxiety & Stress,MA,2024-06-05,active,,True
+21,Margaret Hawkins DDS,LGBTQ+ Affirming,IL,2025-01-29,active,,True
+22,Patty Perez,Child & Adolescent,NC,2024-01-12,active,,True
+23,Ethan Adams,Child & Adolescent,NJ,2024-12-14,churned,2025-09-22,True
+24,Tommy Walter,Anxiety & Stress,CO,2024-09-26,active,,True
+25,Matthew Foster,Depression,MA,2024-11-01,active,,True
+26,Judy Baker,Couples Therapy,NY,2024-06-14,active,,True
+27,Justin Baker,Anxiety & Stress,IL,2025-05-15,churned,2025-10-14,True
+28,Stephanie Ross,Child & Adolescent,CA,2024-09-03,active,,True
+29,Zachary Hicks,Depression,NJ,2024-03-11,active,,True
+30,Anthony Rodriguez,Trauma & PTSD,NY,2025-05-01,active,,True
+31,Rebecca Henderson,LGBTQ+ Affirming,CO,2025-07-06,active,,True
+32,James Ferrell,Child & Adolescent,TX,2025-11-18,active,,True
+33,Tricia Valencia,Grief & Loss,NY,2024-08-18,churned,2024-10-27,True
+34,Nathan Maldonado,Couples Therapy,IL,2024-01-08,churned,2025-12-14,False
+35,Debra Davidson,Depression,GA,2024-12-04,churned,2025-06-03,True
+36,Jeffrey Chavez,Grief & Loss,CA,2024-05-15,active,,True
+37,Sherri Baker,Grief & Loss,CA,2025-04-29,active,,True
+38,Cassandra Gaines,Depression,PA,2024-12-28,active,,True
+39,Elizabeth Fowler,Anxiety & Stress,PA,2025-10-23,churned,2025-12-28,True
+40,Brittany Farmer,Depression,CA,2024-07-13,active,,True
+41,Paula Moreno,Trauma & PTSD,CA,2024-09-12,active,,False
+42,Fred Smith,Depression,NY,2025-07-07,active,,True
+43,Sherry Decker,Couples Therapy,NY,2025-05-12,active,,True
+44,Anthony Humphrey,Anxiety & Stress,NY,2024-01-03,active,,True
+45,Angelica Tucker,Grief & Loss,CA,2025-07-23,active,,True
+46,Philip Cannon,Couples Therapy,CA,2024-02-29,active,,True
+47,John Pierce,Substance Use,NY,2025-08-21,active,,True
+48,Shane Henderson,Trauma & PTSD,NY,2025-06-04,churned,2025-09-19,False
+49,Joshua Blair,Depression,PA,2024-08-28,active,,True
+50,Eric Carney,Couples Therapy,IL,2024-02-10,active,,True
+51,Jessica Holmes,Substance Use,CO,2024-07-28,active,,True
+52,Danny Morgan,Child & Adolescent,TX,2025-11-18,active,,True
+53,Crystal Robinson,Depression,NY,2025-09-28,active,,True
+54,Mark Perez,Depression,FL,2025-06-02,active,,True
+55,Shannon Jones,Depression,MA,2025-01-13,active,,True
+56,Michael Lewis,Child & Adolescent,IL,2025-10-31,active,,True
+57,Timothy Duncan,Child & Adolescent,CO,2024-04-16,active,,True
+58,Richard Aguirre,Depression,GA,2025-07-20,active,,True
+59,Brent Jordan,Couples Therapy,NJ,2024-07-27,active,,True
+60,John Daniel,Grief & Loss,CA,2024-02-22,churned,2025-06-29,True
+61,Victoria Garcia,Anxiety & Stress,NY,2024-05-13,active,,True
+62,Gerald Hensley,Grief & Loss,FL,2025-03-13,active,,True
+63,Connor West,Trauma & PTSD,FL,2025-01-13,active,,True
+64,Donald Wright,Trauma & PTSD,NY,2025-01-08,active,,True
+65,Jessica Callahan,Anxiety & Stress,GA,2024-08-03,active,,True
+66,Amber Kidd,Substance Use,WA,2025-02-20,active,,True
+67,Tracy House,Couples Therapy,MA,2024-06-30,active,,False
+68,Carol Tucker,Substance Use,WA,2025-02-25,active,,True
+69,James Brown,Couples Therapy,CA,2024-04-20,active,,False
+70,William Baker,Grief & Loss,CA,2025-04-16,active,,True
+71,Jordan Henderson,Couples Therapy,CA,2025-11-06,active,,True
+72,Whitney Peters,Depression,CO,2024-10-12,active,,True
+73,Brittney Phillips,Substance Use,CO,2024-04-28,active,,True
+74,Lauren Daniels,Child & Adolescent,NY,2025-09-02,active,,True
+75,Amy Silva,Substance Use,TX,2025-06-07,churned,2025-12-31,True
+76,Sarah Moore,Anxiety & Stress,PA,2024-01-02,active,,True
+77,Angela Lopez,Couples Therapy,TX,2024-03-12,active,,True
+78,Megan Young,Substance Use,PA,2024-05-07,active,,True
+79,Steve Sanchez,Child & Adolescent,PA,2024-11-30,active,,True
+80,Lisa Barnes,Trauma & PTSD,CA,2025-11-11,active,,True
+81,Kelly Donovan,Trauma & PTSD,IL,2024-11-04,active,,True
+82,Mike Allen,Child & Adolescent,CA,2025-03-16,active,,True
+83,Michael Evans,Substance Use,FL,2025-03-28,active,,True
+84,Paul Jones,Trauma & PTSD,PA,2024-10-17,active,,True
+85,Zachary Ferrell,Substance Use,NY,2024-08-28,active,,True
+86,Daniel Baker,Couples Therapy,NY,2024-02-17,active,,True
+87,Shirley Suarez,Depression,TX,2025-10-06,active,,True
+88,Christopher Bass,LGBTQ+ Affirming,FL,2024-09-06,active,,True
+89,Lisa Archer,Depression,WA,2024-08-12,active,,True
+90,Aimee Montoya,Grief & Loss,NY,2024-09-12,active,,True
+91,Matthew Mcmillan,Trauma & PTSD,WA,2025-11-14,active,,True
+92,Brian Rodriguez,Substance Use,CO,2025-03-29,active,,True
+93,Denise Jacobs,LGBTQ+ Affirming,MA,2025-07-15,active,,True
+94,Christina Walters,Grief & Loss,TX,2024-09-10,active,,True
+95,John Whitehead,Grief & Loss,IL,2024-10-08,active,,True
+96,Anna Henderson,Couples Therapy,CA,2024-11-23,active,,True
+97,Aaron Wise,Trauma & PTSD,CA,2024-06-05,active,,False
+98,Deborah Figueroa,LGBTQ+ Affirming,CA,2025-04-22,active,,True
+99,Jessica Smith,LGBTQ+ Affirming,TX,2025-08-21,active,,False
+100,Stephen Mckee,LGBTQ+ Affirming,FL,2024-12-26,active,,True
+101,Sandra Aguilar,LGBTQ+ Affirming,FL,2025-07-13,active,,True
+102,Cameron Parker,Grief & Loss,CA,2025-03-22,active,,True
+103,Rebecca Valencia,LGBTQ+ Affirming,NJ,2025-04-23,active,,True
+104,Christine Wright,Anxiety & Stress,GA,2025-08-29,active,,False
+105,Richard Henson,LGBTQ+ Affirming,NY,2025-04-17,active,,True
+106,Marc Moore,Substance Use,CA,2024-11-30,active,,True
+107,Sharon Cherry,Child & Adolescent,NJ,2025-03-07,active,,True
+108,Sierra Johnson,Anxiety & Stress,NJ,2024-02-23,active,,True
+109,Evelyn Galvan,Depression,WA,2025-10-29,churned,2025-12-28,True
+110,Sharon Cochran,Couples Therapy,MA,2025-09-28,active,,True
+111,Richard Rodriguez,Depression,IL,2024-08-11,active,,True
+112,Shannon Walker,Substance Use,NY,2025-09-13,active,,True
+113,Julia Torres,Trauma & PTSD,CO,2024-04-20,active,,True
+114,Crystal Johnson,LGBTQ+ Affirming,TX,2024-07-22,churned,2025-09-08,True
+115,Garrett Lin,Couples Therapy,NY,2024-11-04,active,,True
+116,Diana May,Depression,WA,2025-08-02,active,,True
+117,William Herrera,LGBTQ+ Affirming,PA,2024-03-11,active,,True
+118,Ashley Waller,LGBTQ+ Affirming,WA,2024-04-18,active,,True
+119,Victor Baker,Grief & Loss,PA,2025-03-21,active,,True
+120,Jeffrey Chandler,Child & Adolescent,IL,2025-07-05,active,,True
+121,Larry Dixon,Child & Adolescent,CA,2024-09-08,active,,True
+122,Kenneth Scott,Grief & Loss,CA,2025-04-20,active,,True
+123,April Frost,Substance Use,NY,2024-11-28,active,,True
+124,Michelle Harmon,Child & Adolescent,TX,2025-09-02,active,,True
+125,Helen Jones,Anxiety & Stress,FL,2024-07-14,churned,2025-09-15,True
+126,Erin Edwards,Couples Therapy,PA,2025-10-23,active,,True
+127,Michelle Evans,Anxiety & Stress,NY,2024-08-14,active,,True
+128,Jason Powell,Substance Use,FL,2025-06-27,active,,True
+129,Cameron Fisher,Substance Use,TX,2025-04-09,active,,True
+130,Megan Orr,Depression,NJ,2024-11-19,active,,True
+131,Elizabeth Kelley,Trauma & PTSD,CA,2025-05-10,active,,True
+132,Dustin Jordan,Child & Adolescent,NC,2024-07-17,active,,True
+133,Mary Marshall,Child & Adolescent,NY,2025-06-30,churned,2025-09-03,True
+134,Daniel Kennedy,Child & Adolescent,PA,2024-05-09,active,,True
+135,Rebecca Jackson,Depression,MA,2025-08-10,active,,True
+136,Jose Schultz,Substance Use,CA,2024-02-22,active,,True
+137,Robert Potter,Depression,WA,2025-02-14,active,,True
+138,Courtney Gonzalez,Anxiety & Stress,NY,2025-07-30,active,,True
+139,David Alvarez,Couples Therapy,NY,2025-03-02,active,,True
+140,Angel Perry,Couples Therapy,WA,2025-01-24,active,,True
+141,Cheyenne Horton,LGBTQ+ Affirming,CA,2025-09-27,churned,2025-12-02,True
+142,David Douglas Jr.,Couples Therapy,IL,2024-09-27,active,,True
+143,Patricia Rodriguez,Trauma & PTSD,FL,2024-06-09,churned,2025-03-26,True
+144,Christopher Rubio,Grief & Loss,CA,2024-08-25,active,,True
+145,Amber Wright,Grief & Loss,NY,2024-08-27,active,,True
+146,Joyce Solis,Couples Therapy,TX,2025-07-11,active,,True
+147,Victoria Larson,Child & Adolescent,WA,2024-03-14,churned,2025-03-23,True
+148,Stephanie Salazar,Child & Adolescent,TX,2025-04-24,active,,True
+149,Kathy Rivas,Child & Adolescent,FL,2025-05-20,active,,True
+150,Stephanie Manning,LGBTQ+ Affirming,NJ,2025-09-10,active,,True
+151,David Wright,Anxiety & Stress,NC,2025-11-19,active,,True
+152,Pamela Boyd,Trauma & PTSD,FL,2025-10-29,active,,True
+153,Denise Jones,LGBTQ+ Affirming,IL,2025-05-18,active,,True
+154,Devon Flores,LGBTQ+ Affirming,CA,2025-11-17,active,,True
+155,Brenda Hall,LGBTQ+ Affirming,PA,2024-10-22,active,,True
+156,Michelle Brown,Anxiety & Stress,TX,2024-11-18,active,,True
+157,Joshua Perry,LGBTQ+ Affirming,MA,2024-01-02,active,,True
+158,Jason Stein,LGBTQ+ Affirming,NY,2025-06-14,active,,True
+159,Melissa Gates,Grief & Loss,NJ,2024-07-27,active,,True
+160,Jamie Smith,Child & Adolescent,TX,2025-05-11,churned,2025-12-18,True
+161,Paul Castaneda,Couples Therapy,PA,2024-11-14,active,,True
+162,Jennifer Adkins,Depression,CA,2024-04-26,active,,True
+163,Lindsey Walker,Trauma & PTSD,FL,2024-10-25,active,,True
+164,Jeffrey Johnson,Grief & Loss,NC,2024-09-06,active,,True
+165,Michael Powell,Couples Therapy,GA,2025-06-04,active,,True
+166,John Anderson,Depression,CA,2025-02-28,active,,True
+167,Alyssa Long,Child & Adolescent,WA,2024-10-16,active,,True
+168,Alyssa Day,Grief & Loss,MA,2025-04-02,active,,True
+169,Joel Williams,LGBTQ+ Affirming,TX,2024-11-25,active,,True
+170,Daniel Murphy,Couples Therapy,IL,2024-08-27,active,,True
+171,Jamie Walton,Substance Use,NJ,2025-01-25,active,,True
+172,Darlene Miller,Trauma & PTSD,FL,2024-02-07,active,,True
+173,Joshua Cooke,Substance Use,MA,2025-03-26,churned,2025-09-18,False
+174,Matthew Harrington,Trauma & PTSD,TX,2025-11-01,active,,False
+175,Nicole Herring,Child & Adolescent,CA,2025-02-11,active,,True
+176,Alex Hernandez,LGBTQ+ Affirming,CO,2025-10-03,active,,True
+177,Michael Elliott,Anxiety & Stress,IL,2024-08-28,active,,True
+178,Michael Wang,Couples Therapy,NJ,2025-03-20,active,,True
+179,Lawrence Adkins,Depression,TX,2024-11-02,active,,False
+180,Robert Oconnell,Anxiety & Stress,CA,2025-01-18,active,,True
+181,Alexander Collins,LGBTQ+ Affirming,IL,2024-07-03,active,,False
+182,Tina Sanders,LGBTQ+ Affirming,IL,2024-09-03,active,,True
+183,Angela Vaughn,Couples Therapy,FL,2024-09-17,active,,True
+184,Ashley Barton,Grief & Loss,GA,2025-11-24,active,,False
+185,Lindsay Martinez,Substance Use,NC,2024-11-02,active,,True
+186,Dr. Hannah Patterson,Child & Adolescent,TX,2024-11-05,active,,True
+187,Jonathan Peterson,Grief & Loss,NY,2025-01-25,active,,True
+188,Samantha Garcia,Child & Adolescent,NY,2025-11-05,active,,False
+189,Madison Poole,Anxiety & Stress,GA,2025-05-23,active,,True
+190,Jessica Gross,Couples Therapy,IL,2024-12-26,active,,True
+191,Debra Morton,Child & Adolescent,PA,2025-11-06,active,,True
+192,Karen Graham,Depression,GA,2025-10-23,churned,2025-12-29,False
+193,Debra Christian,Substance Use,NJ,2024-04-02,active,,True
+194,Angelica Keith,LGBTQ+ Affirming,NY,2024-05-15,active,,True
+195,John Bishop,Substance Use,FL,2024-10-06,active,,True
+196,Allen Rosales,Grief & Loss,CO,2024-10-29,active,,True
+197,Daniel Salinas,Depression,FL,2024-03-18,active,,True
+198,Spencer Haynes,LGBTQ+ Affirming,CO,2025-07-24,active,,True
+199,Adam Vaughan,Anxiety & Stress,CA,2024-05-06,active,,True
+200,Nathan Freeman,Child & Adolescent,IL,2025-10-15,active,,True
+201,Melissa Brewer,Couples Therapy,FL,2025-09-26,active,,True
+202,Ricky Davis II,Couples Therapy,PA,2025-10-12,active,,True
+203,Elizabeth Perkins,Child & Adolescent,PA,2024-04-29,churned,2024-08-05,True
+204,Joseph Coleman,Grief & Loss,NY,2024-08-28,active,,True
+205,Erin Warner,Grief & Loss,TX,2025-07-07,active,,True
+206,David Martinez,Trauma & PTSD,GA,2025-11-01,active,,True
+207,Bryan Herrera,LGBTQ+ Affirming,CO,2024-10-13,churned,2025-06-19,True
+208,Cathy Robinson,Grief & Loss,CO,2025-01-06,churned,2025-09-11,True
+209,Dr. William Warren,Substance Use,NY,2024-10-09,active,,True
+210,Brian Lee,Grief & Loss,NY,2024-08-05,active,,True
+211,Christopher Smith,Anxiety & Stress,NY,2024-12-07,active,,True
+212,Denise Mccann,Couples Therapy,NY,2025-07-21,active,,True
+213,Melissa Martinez,Couples Therapy,CA,2024-05-31,active,,True
+214,Katherine Salas,Child & Adolescent,MA,2024-05-28,active,,True
+215,Julie Alexander,Trauma & PTSD,NY,2024-01-27,active,,True
+216,Anthony Everett,Couples Therapy,IL,2024-01-17,active,,False
+217,Rodney Morales,LGBTQ+ Affirming,FL,2024-03-06,active,,True
+218,Mark Brown,Depression,TX,2024-08-14,active,,False
+219,Justin Torres,Child & Adolescent,TX,2024-02-01,churned,2025-08-04,True
+220,Bailey Duran DDS,LGBTQ+ Affirming,PA,2025-05-17,active,,True
+221,Courtney Mills,Depression,CA,2024-05-31,churned,2025-05-07,True
+222,Jeremy Dalton,Substance Use,TX,2025-09-03,active,,True
+223,Elizabeth Oliver DDS,LGBTQ+ Affirming,NY,2024-04-27,active,,True
+224,Theresa Clark,Couples Therapy,TX,2024-08-21,active,,True
+225,Matthew Moore,LGBTQ+ Affirming,TX,2024-04-07,active,,True
+226,Benjamin Smith,Child & Adolescent,TX,2024-06-05,active,,True
+227,Kirk Carter,Depression,MA,2024-04-05,active,,True
+228,Michael Warner,Substance Use,WA,2025-07-23,churned,2025-12-01,True
+229,Michael Bradshaw,Depression,TX,2025-11-12,active,,True
+230,Lori Guerrero,Anxiety & Stress,CO,2025-09-06,active,,True
+231,Jessica Stephens,Couples Therapy,NY,2025-05-08,active,,True
+232,Susan Serrano,Substance Use,NY,2024-10-12,active,,True
+233,Christopher Parker,Anxiety & Stress,IL,2025-11-04,active,,True
+234,Laura Roberts,Trauma & PTSD,CA,2024-11-12,active,,True
+235,Michael Lyons,Trauma & PTSD,MA,2025-08-02,active,,False
+236,Kathryn Snyder,Anxiety & Stress,NY,2025-06-27,active,,True
+237,Andrew Reynolds,Substance Use,NY,2024-11-15,active,,True
+238,David Davis,Depression,GA,2024-06-08,active,,True
+239,Sara Johnston,Depression,CA,2025-11-08,active,,True
+240,Yvonne Chambers,LGBTQ+ Affirming,CA,2025-06-08,active,,True
+241,Andrew Avila,Child & Adolescent,PA,2025-08-30,active,,True
+242,Matthew Moon,Anxiety & Stress,CA,2025-09-05,churned,2025-11-17,True
+243,Kevin Walters,Couples Therapy,NJ,2024-09-18,active,,True
+244,Brandon Bailey MD,Grief & Loss,NJ,2024-06-28,active,,True
+245,Shannon Rivera,Couples Therapy,FL,2025-11-15,active,,False
+246,Donna Landry,Anxiety & Stress,TX,2025-04-15,active,,True
+247,Krista Gibson,LGBTQ+ Affirming,IL,2025-10-17,active,,True
+248,Frank Cordova,Anxiety & Stress,CO,2024-06-24,active,,True
+249,Jose Travis,Substance Use,NY,2024-04-18,active,,True
+250,Kimberly Gutierrez,Depression,TX,2024-11-13,active,,True
+251,Isaiah Avila,Trauma & PTSD,NY,2025-10-10,active,,True
+252,Olivia Harris,Substance Use,TX,2025-10-22,active,,True
+253,Tanya Kim,Trauma & PTSD,CA,2024-06-26,active,,True
+254,Barbara Dudley,Depression,NY,2025-10-05,active,,True
+255,Cynthia Moore,Grief & Loss,PA,2025-08-01,active,,True
+256,Kristen Davis,Substance Use,MA,2025-10-04,active,,True
+257,Susan Murray MD,Grief & Loss,TX,2024-11-06,active,,True
+258,Kathleen Moran,Substance Use,FL,2024-11-13,active,,False
+259,Denise Davenport,Substance Use,MA,2024-03-19,active,,True
+260,Mrs. Kristen Reyes,Depression,IL,2025-06-03,active,,True
+261,Katie Suarez,Anxiety & Stress,TX,2025-08-08,active,,True
+262,Desiree Tyler,Grief & Loss,FL,2024-03-04,active,,True
+263,Timothy Romero,Substance Use,NC,2024-03-27,active,,True
+264,Diane Evans,Couples Therapy,PA,2025-03-25,active,,True
+265,Yvonne Burns,Substance Use,TX,2024-10-16,active,,True
+266,Joshua Reed,Anxiety & Stress,WA,2025-10-24,active,,True
+267,Kimberly Gibson,LGBTQ+ Affirming,CA,2025-11-03,active,,True
+268,Colin Terry,Trauma & PTSD,CA,2025-08-19,active,,True
+269,Cynthia Rowe,Child & Adolescent,CO,2025-11-09,active,,True
+270,Patrick Thornton,Depression,CA,2025-01-20,active,,True
+271,Jasmin Alvarado,Trauma & PTSD,PA,2025-06-23,churned,2025-12-08,True
+272,Veronica Simpson,Anxiety & Stress,TX,2024-07-03,active,,True
+273,Jonathan Lawrence,Grief & Loss,CA,2024-05-20,active,,True
+274,Shelly Alexander,Depression,FL,2025-07-06,active,,True
+275,Joyce Bowen,Anxiety & Stress,PA,2025-09-24,active,,True
+276,Matthew Moore,Trauma & PTSD,CA,2025-10-01,active,,True
+277,Wayne Morgan,Grief & Loss,NY,2025-01-08,active,,True
+278,Marie Christian,Grief & Loss,IL,2025-04-04,active,,True
+279,Shannon James,Grief & Loss,GA,2024-07-17,active,,True
+280,Nathan Malone,Grief & Loss,FL,2024-10-15,active,,True
+281,Amanda Jones,LGBTQ+ Affirming,CO,2024-07-23,active,,True
+282,Tammie Bright,Child & Adolescent,NY,2025-05-07,active,,True
+283,Jessica Garcia,Depression,NJ,2025-06-12,active,,True
+284,Shelia Wallace,Trauma & PTSD,CA,2025-06-09,active,,True
+285,Stephanie Williams,Couples Therapy,WA,2024-12-23,active,,True
+286,Elaine Brooks,LGBTQ+ Affirming,FL,2024-08-29,active,,True
+287,Joseph Knight,Couples Therapy,NY,2024-04-11,active,,True
+288,Carolyn Miller,Trauma & PTSD,NY,2024-10-20,active,,True
+289,Lisa Allen,Trauma & PTSD,NJ,2025-04-25,active,,False
+290,Briana Murray,Depression,NY,2024-08-08,active,,True
+291,David Smith,LGBTQ+ Affirming,NY,2024-10-22,active,,True
+292,Stephanie Byrd,Couples Therapy,TX,2025-09-29,active,,True
+293,Jeremy Reed,Grief & Loss,IL,2024-01-17,active,,True
+294,Margaret Coleman,Trauma & PTSD,CA,2024-01-02,active,,True
+295,Ryan Gonzalez,LGBTQ+ Affirming,CA,2025-11-15,active,,True
+296,John Young,Depression,CO,2025-07-11,active,,True
+297,Laura Haney,Anxiety & Stress,TX,2025-04-26,churned,2025-10-02,True
+298,William Barrett,Child & Adolescent,NJ,2024-12-31,active,,True
+299,Keith Jennings,Depression,WA,2024-12-06,active,,True
+300,Amber Obrien,Substance Use,WA,2024-06-28,active,,True
+301,Tanner Mitchell DDS,Grief & Loss,IL,2024-05-18,churned,2025-10-28,False
+302,Heather Fields,Couples Therapy,NY,2024-07-23,active,,True
+303,Megan Le,Child & Adolescent,FL,2025-07-10,active,,False
+304,Sara Fuller,Couples Therapy,CA,2024-02-18,active,,True
+305,Maria Parker,Depression,WA,2025-03-23,active,,True
+306,Kevin Oconnor,LGBTQ+ Affirming,CA,2024-07-10,active,,True
+307,Edward Burgess,Child & Adolescent,WA,2025-03-10,churned,2025-10-10,True
+308,Carlos Ryan,Trauma & PTSD,FL,2024-11-24,active,,True
+309,Kiara Mcintyre,Child & Adolescent,CA,2025-09-09,active,,True
+310,Dawn Summers,Grief & Loss,TX,2024-02-13,active,,True
+311,Dr. Paul Morgan,LGBTQ+ Affirming,CA,2024-02-28,churned,2025-06-17,True
+312,Victor Taylor,Trauma & PTSD,CO,2024-05-26,active,,True
+313,Shannon Ramsey,Grief & Loss,NY,2024-03-09,active,,True
+314,Tracy Ballard,Substance Use,TX,2025-08-03,churned,2025-10-21,True
+315,Richard Smith,Substance Use,TX,2024-03-19,active,,True
+316,Jordan Chambers,LGBTQ+ Affirming,CA,2024-10-12,active,,True
+317,Lauren Carson,Trauma & PTSD,FL,2025-01-31,active,,True
+318,Ashley Hall,Child & Adolescent,PA,2024-08-07,active,,True
+319,Stephen Hoffman,Grief & Loss,CA,2024-05-18,active,,True
+320,Connie Brown,Grief & Loss,NC,2025-11-29,active,,True
+321,Susan Turner,Substance Use,PA,2025-07-17,active,,True
+322,Charles Shah,Trauma & PTSD,NJ,2025-10-15,active,,True
+323,Johnathan Davis,Couples Therapy,NY,2024-07-24,active,,True
+324,Brandy Chavez,Grief & Loss,NY,2025-07-21,active,,True
+325,Natalie Bautista,Trauma & PTSD,IL,2024-03-29,churned,2025-07-09,True
+326,Patrick Moore,Grief & Loss,FL,2025-02-23,active,,False
+327,Brett Burns,Substance Use,PA,2025-04-05,active,,True
+328,Trevor Johnson,Trauma & PTSD,MA,2025-07-18,active,,True
+329,Jeremy Sampson,Trauma & PTSD,TX,2024-02-26,active,,True
+330,Ariana Jennings,Child & Adolescent,NY,2024-11-26,active,,True
+331,Vanessa Howard,Child & Adolescent,MA,2024-09-13,active,,True
+332,Colton Martinez,Child & Adolescent,NY,2024-11-06,active,,True
+333,Jordan Bates,Trauma & PTSD,IL,2025-08-17,active,,True
+334,Linda Smith,Substance Use,MA,2025-07-31,churned,2025-10-02,True
+335,Dana Martinez,Child & Adolescent,PA,2025-08-08,active,,True
+336,Andrea Hubbard,Grief & Loss,GA,2025-07-12,active,,True
+337,Daniel Kane,Grief & Loss,CA,2025-02-19,active,,False
+338,Charles Lester,Anxiety & Stress,NY,2025-03-01,active,,True
+339,Scott Thomas,Trauma & PTSD,CA,2024-11-22,active,,True
+340,David Thompson,LGBTQ+ Affirming,NY,2025-01-14,active,,True
+341,Allison Smith,Couples Therapy,FL,2024-09-30,active,,True
+342,Cynthia Morris,Anxiety & Stress,CA,2025-01-28,active,,True
+343,Anthony Harmon,Trauma & PTSD,WA,2025-08-14,active,,True
+344,Nichole Alvarez,Trauma & PTSD,FL,2025-06-11,active,,True
+345,Kayla Rodriguez,Grief & Loss,NY,2025-02-06,active,,True
+346,Theresa Williams,Couples Therapy,IL,2024-02-19,churned,2025-09-07,True
+347,Sharon Boyd,Grief & Loss,CA,2024-01-09,active,,True
+348,Victor Brown,Child & Adolescent,NJ,2025-02-16,active,,True
+349,James Parks,Couples Therapy,TX,2024-10-22,churned,2025-09-05,True
+350,Theodore Jones Jr.,Child & Adolescent,WA,2025-09-30,active,,True
+351,Ana Hill,Depression,TX,2024-12-13,active,,True
+352,Kimberly Nguyen,Trauma & PTSD,CA,2025-06-05,active,,False
+353,Kerry Chavez DDS,Anxiety & Stress,NY,2024-12-07,active,,True
+354,Michael Farrell,Trauma & PTSD,IL,2025-06-11,active,,True
+355,Patricia Le,Substance Use,NY,2025-09-23,active,,True
+356,Jesse Perez,Substance Use,FL,2025-06-05,active,,True
+357,Jesse Perry,Child & Adolescent,FL,2024-01-18,active,,True
+358,Jeffery Ortega,LGBTQ+ Affirming,IL,2025-10-06,churned,2025-12-20,True
+359,Christian Leblanc,Couples Therapy,NJ,2025-08-20,active,,True
+360,Ronald Davis,LGBTQ+ Affirming,NY,2025-11-28,active,,True
+361,Parker Cain,Depression,CA,2025-03-27,active,,True
+362,Laurie Hoffman,Couples Therapy,TX,2025-09-18,active,,True
+363,Bryan Gomez,Anxiety & Stress,PA,2025-06-15,active,,True
+364,Nicole Parrish,Grief & Loss,FL,2024-11-17,active,,True
+365,Tracy Burke,Substance Use,FL,2025-11-23,active,,True
+366,Kenneth Lewis,Child & Adolescent,IL,2024-07-15,active,,True
+367,Courtney Rodriguez,Child & Adolescent,CA,2024-10-31,active,,True
+368,Holly Farmer,Grief & Loss,CA,2024-12-23,active,,True
+369,Renee Bruce,Child & Adolescent,CA,2025-08-10,active,,True
+370,Sabrina Austin,LGBTQ+ Affirming,WA,2024-05-29,active,,True
+371,Allison Hickman,Depression,TX,2025-03-28,active,,True
+372,Debra White,Couples Therapy,CA,2025-07-05,active,,True
+373,Ellen Morgan,Child & Adolescent,NY,2025-09-22,active,,True
+374,Sergio Knight,Anxiety & Stress,PA,2025-06-27,active,,True
+375,Charles Schultz,Depression,TX,2025-04-28,active,,True
+376,Paul Lewis,Anxiety & Stress,CO,2024-06-10,active,,True
+377,Glen Wood,Grief & Loss,FL,2024-07-23,active,,True
+378,Paula Bradley,Child & Adolescent,PA,2024-04-01,active,,True
+379,Anthony Moore,Anxiety & Stress,GA,2024-06-28,active,,True
+380,Megan Nelson,Anxiety & Stress,NC,2025-02-10,active,,True
+381,Karla Ramos,Child & Adolescent,MA,2024-01-10,active,,True
+382,Paul Wilson,Substance Use,CA,2025-10-18,active,,True
+383,Douglas Gregory,Trauma & PTSD,MA,2025-04-24,active,,True
+384,Mr. Andrew Foster,Substance Use,NY,2025-04-14,active,,True
+385,Aimee Turner,Anxiety & Stress,NJ,2024-10-29,active,,True
+386,Chad Scott,Trauma & PTSD,IL,2025-10-16,active,,True
+387,Adam Burgess,Substance Use,NY,2025-11-16,active,,True
+388,James Padilla,Grief & Loss,CA,2024-09-11,churned,2025-05-25,True
+389,Sandra Drake,Child & Adolescent,CO,2024-11-05,active,,True
+390,Scott Williams,Child & Adolescent,PA,2024-08-29,churned,2024-12-27,True
+391,Thomas Atkins,Trauma & PTSD,TX,2025-05-29,active,,True
+392,Laura Mckinney,Child & Adolescent,PA,2025-10-16,active,,True
+393,Brian Smith,Couples Therapy,CA,2024-05-16,active,,True
+394,Robert Montgomery,Substance Use,TX,2025-07-16,active,,True
+395,Tamara Davis,Couples Therapy,NJ,2025-11-27,active,,True
+396,Dana Chapman,Depression,FL,2025-06-24,active,,False
+397,Jennifer Collins,Depression,NY,2025-07-14,active,,True
+398,Gary Jackson,Trauma & PTSD,NY,2025-06-16,active,,True
+399,Ashley Hicks,Grief & Loss,NY,2025-06-06,active,,False
+400,Hannah Luna,Trauma & PTSD,FL,2025-04-12,active,,True

@@ -1,0 +1,7 @@
+payer_id,payer_name,base_approval_rate,base_days_to_pay
+1,Cigna/Evernorth,0.94,12
+2,UnitedHealthcare,0.9,18
+3,Aetna,0.91,16
+4,BlueCross BlueShield,0.88,20
+5,Optum,0.93,14
+6,Self-Pay,1.0,0

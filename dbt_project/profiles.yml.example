@@ -1,0 +1,35 @@
+# profiles.yml (TEMPLATE - not used to run this project as-is)
+#
+# This project's SQL is validated locally via DuckDB (see
+# scripts/build_duckdb_warehouse.py), since that requires no external
+# account and keeps the repo fully self-contained for review.
+#
+# In a real company setting, this profiles.yml is what `dbt run` would
+# actually use, pointed at the production warehouse. Below is an example
+# for Snowflake (Alma-style stack) and one for BigQuery, included to show
+# how this project would be deployed in production rather than as a
+# local-only exercise.
+
+alma_marketplace_analytics:
+  target: dev
+  outputs:
+
+    dev:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+      role: TRANSFORMER
+      database: ANALYTICS_DEV
+      warehouse: TRANSFORMING_XS
+      schema: dbt_dev
+      threads: 4
+
+    prod:
+      type: bigquery
+      method: oauth
+      project: alma-analytics-prod
+      dataset: dbt_prod
+      threads: 8
+      timeout_seconds: 300
+      location: US

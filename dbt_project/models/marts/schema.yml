@@ -1,0 +1,55 @@
+version: 2
+
+models:
+  - name: dim_providers
+    description: >
+      One row per provider. Combines provider attributes with rolled-up
+      session/claims performance. Primary dimension table for provider-level
+      analysis in the BI dashboard.
+    columns:
+      - name: provider_id
+        tests:
+          - unique
+          - not_null
+      - name: provider_status
+        tests:
+          - accepted_values:
+              values: ['active', 'churned']
+
+  - name: fct_matches
+    description: >
+      One row per patient-provider match attempt. Primary fact table for the
+      "time-to-match by specialty" dashboard and the matching-funnel analysis.
+    columns:
+      - name: match_id
+        tests:
+          - unique
+          - not_null
+      - name: match_outcome
+        tests:
+          - accepted_values:
+              values: ['accepted', 'declined_by_patient', 'declined_by_provider']
+
+  - name: fct_sessions
+    description: >
+      One row per therapy session / billable insurance claim. Primary fact
+      table for claims approval rate, revenue, and reimbursement-lag analysis.
+    columns:
+      - name: session_id
+        tests:
+          - unique
+          - not_null
+      - name: claim_status
+        tests:
+          - accepted_values:
+              values: ['approved', 'denied']
+
+  - name: dim_specialty_supply_demand
+    description: >
+      One row per specialty, summarizing patient demand vs. active provider
+      supply. Powers the headline insight on under-supplied specialties.
+    columns:
+      - name: specialty
+        tests:
+          - unique
+          - not_null
